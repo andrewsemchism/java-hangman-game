@@ -8,5 +8,5 @@ The program will select a random word from the word bank. Blank spaces will be p
 
 # Screenshots
 
-![](images/screenshot2)
-![](images/screenshot1)
+![](images/screenshot2.png)
+![](images/screenshot1.png)
